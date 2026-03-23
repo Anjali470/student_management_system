@@ -37,8 +37,8 @@ It allows users to manage student records efficiently with features like adding,
     "name": "John",
     "age": 20,
     "marks": [85, 90, 78]
-}
-
+} 
+```
 ---
 
 ## How to Run
