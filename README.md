@@ -5,7 +5,7 @@ It allows users to manage student records efficiently with features like adding,
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new student
 - View all students
@@ -18,7 +18,7 @@ It allows users to manage student records efficiently with features like adding,
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Functions (modular programming)
 - Lists and Dictionaries
@@ -28,7 +28,7 @@ It allows users to manage student records efficiently with features like adding,
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
 - Each student is stored as a dictionary:
 ```python
@@ -38,3 +38,9 @@ It allows users to manage student records efficiently with features like adding,
     "age": 20,
     "marks": [85, 90, 78]
 }
+
+---
+
+## How to Run
+```bash
+python filename.py
